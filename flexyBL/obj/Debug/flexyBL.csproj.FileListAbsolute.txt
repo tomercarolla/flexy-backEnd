@@ -1,0 +1,15 @@
+C:\Users\Tomer\Desktop\flexy\flexyBL\bin\Debug\flexyBL.dll
+C:\Users\Tomer\Desktop\flexy\flexyBL\bin\Debug\flexyBL.pdb
+C:\Users\Tomer\Desktop\flexy\flexyBL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tomer\Desktop\flexy\flexyBL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tomer\Desktop\flexy\flexyBL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tomer\Desktop\flexy\flexyBL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tomer\Desktop\flexy\flexyBL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Tomer\Desktop\flexy\flexyBL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Tomer\Desktop\flexy\flexyBL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Tomer\Desktop\flexy\flexyBL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Tomer\Desktop\flexy\flexyBL\obj\Debug\flexyBL.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\flexy\flexyBL\obj\Debug\flexyBL.csproj.CopyComplete
+C:\Users\Tomer\Desktop\flexy\flexyBL\obj\Debug\flexyBL.dll
+C:\Users\Tomer\Desktop\flexy\flexyBL\obj\Debug\flexyBL.pdb
+C:\Users\Tomer\Desktop\flexy\flexyBL\obj\Debug\flexyBL.csproj.AssemblyReference.cache
