@@ -56,7 +56,8 @@ public class Handler : IHttpHandler
                 }
                 else
                 {
-                    context.Response.Write("noStudents");
+                    response.message = "noStudents";
+                    context.Response.Write(JsonConvert.SerializeObject(response));
                 }
                 break;
 
@@ -549,19 +550,3 @@ public class Handler : IHttpHandler
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
